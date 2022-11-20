@@ -1,9 +1,8 @@
 #!/bin/python
 #Deploying a python web application
 
-#This is ashell script
-echo "Hello World"
+#echo "Hello World"   = shell script
 
-#Ths is a python script
-python('Hello World')
+print('Hello World') 
+#= python script
 
